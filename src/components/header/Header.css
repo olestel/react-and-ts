@@ -1,0 +1,12 @@
+header {
+  height: 100px;
+  padding: 0 40px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #f8f9fa;
+}
+
+header button {
+  height: 21px;
+}

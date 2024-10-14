@@ -1,0 +1,11 @@
+footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+}
+
+footer button {
+  height: 21px;
+}
